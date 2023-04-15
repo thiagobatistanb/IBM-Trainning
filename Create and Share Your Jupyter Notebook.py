@@ -1,21 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Data Science Tools and Ecosystem
-# 
-
-# In[9]:
-
+# # Data Science Tools and Ecosystem 
 
 print("In this notebook, Data Science Tools and Ecosystem are summarized.")
-
 
 # #### Some of the popular languages that Data Scientists use are:
 # 1. Python 
 # 2. R
 # 3. SQL
-# 
-# 
 
 # #### Some of the commonly used libraries used by Data Scientists include:
 # * Pandas 
@@ -29,17 +22,14 @@ print("In this notebook, Data Science Tools and Ecosystem are summarized.")
 # | TensorFlow |
 
 # ### Below are a few examples of evaluating arithmetic expressions in Python
-# 
 
 # In[7]:
-
 
 # This a simple arithmetic expression to mutiply then add integers
 (3*4)+5
 
 
 # In[8]:
-
 
 # This will convert 200 minutes to hours by diving by 60
 200/60
@@ -53,12 +43,6 @@ print("In this notebook, Data Science Tools and Ecosystem are summarized.")
 # * How to use Jupter Notebooks 
 # * The importance of GitHub and RStudio
 
-# # Author
+# Author
 # 
 # Thiago Bandeira 
-
-# In[ ]:
-
-
-
-
